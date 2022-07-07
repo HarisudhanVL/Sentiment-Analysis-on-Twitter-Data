@@ -10,4 +10,6 @@ The tweets extracted from Twitter were preprocessed and the sentiment i.e, posit
 
 ### EXTRACTING TWEETS FROM TWITTER
 
-The tweets can be extracted from twitter using TWITTER API. The API can be generated and found from Twitter developer  
+The tweets can be extracted from twitter using TWITTER API. The API can be generated and found from Twitter developer site. 
+
+
