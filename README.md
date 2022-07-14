@@ -42,6 +42,15 @@ In general the sentiment of a tweets is categorized into three,
 
 The sentiment of the tweet can be found using **polarity** and **subjectivity**. Polarity is float which lies in the range of [-1,1] where 1 means positive statement and -1 means a negative statement. Subjectivity quantifies the amount of personal opinion and factual information contained in the text. The polarity and subjective score for a tweet can be found using a python library named ***[textblob](https://textblob.readthedocs.io)***. When calculating a sentiment for a single word, TextBlob uses the “averaging” technique that is applied on values of polarity to compute a polarity score for a single word and hence similar operation applies to every single word and we get a combined polarity for longer texts.
 
+The sentiment of the tweets were found using textblob which looks like,
+
+![image](https://user-images.githubusercontent.com/68286374/178974121-9999c29d-2ad3-4eb9-99ad-0bf6fdcef335.png)
+
+Reaction of people all in twitter was analyzed when Elon Musk Announces that he is going to buy the shares of Twitter. Most of the people around the world tweeted neutrally and positively.
+![image](https://user-images.githubusercontent.com/68286374/178974669-b355100a-68ed-4893-a4f0-b703ea4a3624.png)
+
+
+
 
 
 
