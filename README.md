@@ -25,6 +25,25 @@ The extracted tweets generally has text, numbers, emojies, multiple spaces, hype
 4) Removal of numbers.
 5) Removal of hyperlinks.
 
+The tweet before preprocessing,
+![image](https://user-images.githubusercontent.com/68286374/178970388-e812b087-e464-468d-9f1b-949723fd0944.png)
+
+The tweet after preprocessing,
+![image](https://user-images.githubusercontent.com/68286374/178970597-7b10ccb9-b33c-4a4c-b92c-8093f14556f4.png)
+
+After preprocessing store the tweets in a list.
+
+### SENTIMENT OF TWEETS
+
+In general the sentiment of a tweets is categorized into three,
+1) POSITIVE
+2) NEGATIVE
+3) NEUTRAL
+
+The sentiment of the tweet can be found using **polarity** and **subjectivity**. 
+
+
+
 
 
 
