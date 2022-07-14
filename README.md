@@ -46,7 +46,8 @@ The sentiment of the tweets were found using textblob which looks like,
 
 ![image](https://user-images.githubusercontent.com/68286374/178974121-9999c29d-2ad3-4eb9-99ad-0bf6fdcef335.png)
 
-Reaction of people all in twitter was analyzed when Elon Musk Announces that he is going to buy the shares of Twitter. Most of the people around the world tweeted neutrally and positively.
+The main objective of this project is to anlyze the reactions of people in twitter when Elon Musk Announces that he is going to buy the shares of Twitter. Upon analyzing 3260 tweets most of the people around the world tweeted neutrally and positively for his announcement.  
+
 ![image](https://user-images.githubusercontent.com/68286374/178974669-b355100a-68ed-4893-a4f0-b703ea4a3624.png)
 
 
