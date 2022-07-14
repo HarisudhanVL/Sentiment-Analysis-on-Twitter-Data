@@ -40,7 +40,7 @@ In general the sentiment of a tweets is categorized into three,
 2) NEGATIVE
 3) NEUTRAL
 
-The sentiment of the tweet can be found using **polarity** and **subjectivity**. 
+The sentiment of the tweet can be found using **polarity** and **subjectivity**. Polarity is float which lies in the range of [-1,1] where 1 means positive statement and -1 means a negative statement. Subjectivity quantifies the amount of personal opinion and factual information contained in the text. The polarity and subjective score for a tweet can be found using a python library named ***[textblob](https://textblob.readthedocs.io)***. When calculating a sentiment for a single word, TextBlob uses the “averaging” technique that is applied on values of polarity to compute a polarity score for a single word and hence similar operation applies to every single word and we get a combined polarity for longer texts.
 
 
 
