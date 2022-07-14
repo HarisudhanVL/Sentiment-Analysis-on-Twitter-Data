@@ -50,6 +50,14 @@ The main objective of this project is to anlyze the reactions of people in twitt
 
 ![image](https://user-images.githubusercontent.com/68286374/178974669-b355100a-68ed-4893-a4f0-b703ea4a3624.png)
 
+### CREATE DATAFRAME
+
+In order to predict the sentiment of the new tweets, a machine learning model has to be build, inorder to do that create a dataframe with the target feature as sentiment of the tweets.
+
+![image](https://user-images.githubusercontent.com/68286374/178976366-21617db2-cf25-4419-9bbe-645d66e368b6.png)
+
+
+
 
 
 
